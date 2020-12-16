@@ -177,10 +177,10 @@ font-size: .8.5rem;
     
 }
 @media (min-width: 992px){
-   .cards{
+   /*.cards{
     /*padding: 60px;*/
    }
-}
+
 .dates{
     display:flex;
     align-items: center;
