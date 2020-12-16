@@ -211,6 +211,7 @@ font-size: .8.5rem;
     padding: 5px 0;
     border-radius: 35px;
     transition: .3s eaes;
+    
 }
 @media (max-width:900px){
     .dates{
