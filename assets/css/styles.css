@@ -4,6 +4,12 @@
         height:2390px;
     }
 }
+@media (max-width:765px,) {
+    .formm {
+        width:1280px;
+        height:2390px;
+    }
+}
 @media (max-width:414px) {
     .formm {
         width:1280px;
