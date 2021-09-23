@@ -35,14 +35,14 @@
   }
   
   .cuntdwn h1 {
-    font-weight: normal;
+    font-weight: 20px;
     letter-spacing: .125rem;
     text-transform: uppercase;
   }
   
   .cuntdwn li {
     display: inline-block;
-    font-size: .9em;
+    font-size: 1.2em;
     list-style-type: none;
     padding: 1.8em;
     text-transform: uppercase;
@@ -69,11 +69,11 @@
     }
     
     .cuntdwn li {
-      font-size: 1.125rem;
+      font-size: 0.7rem;
       padding: .75rem;
     }
     
     .cuntdwn li span {
-      font-size: 3.375rem;
+      font-size: 2.5rem;
     }
   }
