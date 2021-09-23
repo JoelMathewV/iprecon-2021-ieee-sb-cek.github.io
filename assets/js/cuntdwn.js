@@ -22,7 +22,7 @@
                 countdown = document.getElementById("countdown"),
                 content = document.getElementById("content");
   
-            headline.innerText = "It's my birthday!";
+            headline.innerText = "JOIN IPRECON 2021 SESSIONS IN";
             countdown.style.display = "none";
             content.style.display = "block";
   
