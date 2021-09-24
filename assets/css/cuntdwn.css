@@ -35,6 +35,7 @@
   }
   
   .cuntdwn h1 {
+    font-size: 2rem;
     font-weight: 20px;
     letter-spacing: .125rem;
     text-transform: uppercase;
@@ -65,7 +66,7 @@
   
   @media all and (max-width: 768px) {
     .cuntdwn h1 {
-      font-size: 1.5rem;
+      font-size: 1.4rem;
     }
     
     .cuntdwn li {
