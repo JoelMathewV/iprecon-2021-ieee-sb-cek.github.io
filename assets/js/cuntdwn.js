@@ -22,7 +22,7 @@
                 countdown = document.getElementById("countdown"),
                 content = document.getElementById("content");
   
-            headline.innerText = "IPRECON 2021 TRACK 4, TRACK 5, Track 6 STARTED";
+            headline.innerText = "JOIN IPRECON 2021 KEYNOTE TRACK";
             countdown.style.display = "none";
             content.style.display = "block";
   
